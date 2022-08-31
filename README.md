@@ -37,7 +37,7 @@
     2. Tf-Idf
     3. N-gram analysis
 
-## NLP Visualizatin - 
+## NLP Visualization - 
     1. visualizing the polarity and subjectivity 
     2. most frequent word in doc
     3. visualizing n-gram
